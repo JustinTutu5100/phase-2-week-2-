@@ -1,0 +1,58 @@
+{
+  "goals": [
+    {
+      "id": "3",
+      "name": "New Laptop",
+      "targetAmount": 1500,
+      "savedAmount": 1500,
+      "category": "Electronics",
+      "deadline": "2024-07-20",
+      "createdAt": "2024-03-10"
+    },
+    {
+      "id": "4",
+      "name": "Down Payment - House",
+      "targetAmount": 50000,
+      "savedAmount": 12000,
+      "category": "Real Estate",
+      "deadline": "2027-12-31",
+      "createdAt": "2024-02-01"
+    },
+    {
+      "id": "6",
+      "name": "Education Fund",
+      "targetAmount": 20000,
+      "savedAmount": 5000,
+      "category": "Education",
+      "deadline": "2028-01-01",
+      "createdAt": "2024-04-20"
+    },
+    {
+      "id": "7",
+      "name": "Holiday Gifts",
+      "targetAmount": 1000,
+      "savedAmount": 200,
+      "category": "Shopping",
+      "deadline": "2024-08-10",
+      "createdAt": "2024-07-01"
+    },
+    {
+      "id": "c6ea",
+      "name": "Anime fund ",
+      "targetAmount": 2000,
+      "category": "Entertainment ",
+      "deadline": "2025-08-20",
+      "savedAmount": 0,
+      "createdAt": "2025-07-20"
+    },
+    {
+      "id": "875c",
+      "name": " shopping funds",
+      "targetAmount": 3000,
+      "category": "shopping",
+      "deadline": "2025-07-31",
+      "savedAmount": 1000,
+      "createdAt": "2025-07-20"
+    }
+  ]
+}
