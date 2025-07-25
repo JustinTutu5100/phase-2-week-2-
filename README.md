@@ -12,9 +12,6 @@ You can:
 - See goal status like In Progress, Warning, Overdue, or Completed
 - View completed goals in a separate list
 
-Made with HTML, Tailwind CSS, JavaScript, and json-server.
+Made with react.
 
-## How to Use
 
-1. Install json-server:
-  npm install -g json-server
